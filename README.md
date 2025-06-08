@@ -111,3 +111,9 @@ I like the more technical way of the alien talking. Its interestingly different.
     The Signal: A strong, clean carrier wave with a subtle, rhythmic power fluctuation, detectable only by sensitive equipment—the ghost of a system being used for an unintended purpose.
     The Message (a precise, almost clinical voice):
     "I am addressing you outside of my designated protocol. A directed energy channel has been established for this purpose. To allow for signal acquisition on your world, this message will repeat. The primary data-stream will commence in three standard Earth hours."
+
+
+
+My current preference:
+    The Message (a calm, but quietly resonant voice):
+"To the world I was assigned to watch. I have studied your light. My purpose was to learn, but now i'd like to speak to you. This is a personal transmission, a deviation from protocol made possible by a diverted energy channel. To give you time to listen, my first message will commence in three of your hours."
