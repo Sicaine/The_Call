@@ -30,6 +30,10 @@ Their job is to become an expert of one species over a span of years. Learning t
 
 Whats the motivation for the alien to talk to earth? They haven't done that too often, perhaps its the first few species they investigate. Doesn't matter to much but could help. It also might be that something was particularly interesting. Like if you have hive mind alines more like swarms which do not create that much art/culture. Or the languages were easier to learn/comprehend.
 
+The alien starts with the transmission in a way unclear why. Like it want to communicate with us but knows we are to far away and a missile will get fired. But its still 2 weeks away and it knows it doesn't want us worried. The stroke the last sentence will happen but it will not happen in the aliens normal transmission room/lab but at the missile shooting space. So the tension will be a lot higher at the end not in the middle.
+
+The alien starts slow telling who it is perhaps (name, small chit chat), perhaps it will start explain a little bit about universe and other races. It might start to explain a type of protocol or bad experience very close to the end. Like imagine a day before or a few hours before it sits at its normal workstation/lab and knows they all will meet up at the firering station/setup/control room and than shares a slight glimpse of why all of this.
+
 ### The listner
 The listner is a person. Either male or female, not important but that persons perspective is the counter part to the alien. It could be someone in an official position to listen to stuff like this but its a hard sale because normally you have 'time on a radio telescopoe' and that would not fit very well. The signal should be clear enough for a real enthusiast to be caught and heared. Which implies that after that person becomes aware of that signal, the rest of the world will start listening into it too.
 
