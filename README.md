@@ -84,7 +84,30 @@ So the aliens can either be very close like 10-15 lightyears, which should make 
 Or they have some other technology to make this distance shorter but in a way that normal laws still apply. Like they created a wormhole or found one. Might not be too relevant but something should and could be explained simply.
 
 
-In the New Mexico desert, Elias Vance stood up and walked out of his shack. He looked up at the daytime sky, no longer listening for a voice from the heavens, but watching for the flash of an impact he would never see.
+### The starting message
+
+Collection of good ideas overall:
+
+Good overall:
+    The Signal: A perfectly clean carrier wave, but embedded within it is a faint, repeating pattern—a visual representation of the hydrogen atom's spectral line, the classic "we are here" signal for astronomers.
+    The Message (a calm, genderless voice, like a documentarian):
+    "I am opening a narrow-band channel on a frequency I believe you will find. I have been your silent observer. My purpose was to learn, and I have learned much. Now, my purpose is to speak. My primary transmission will begin in three of your standard hours. I have much to share."
 
 
+Interesting but the alien can have a name. The 'designation is irrelevant' could stay but its not important at all; I really like the 'the world i was assigned to watch':
 
+    The Signal: A series of soft, resonant tones that slowly resolve into a single, sustained, mournful note before the message begins.
+    The Message (a quiet, almost whispering voice):
+    "To the world I was assigned to watch. I have studied your light for fifteen of your years. My designation is irrelevant. What is relevant is that a voice should be heard before the silence. I will begin speaking in three hours. Forgive this intrusion."
+
+
+Makes it clear its one entity and its also a little bit on the side thing:
+    The Signal: A strong, clean carrier wave with a subtle, rhythmic power fluctuation, detectable only by sensitive equipment—the ghost of a system being used for an unintended purpose.
+    The Message (a focused, calm voice):
+    "I have diverted a fraction of the array's power to establish this personal transmission. I have observed your world for your designated cycles; now, I choose to speak. My first message will follow in three of your standard hours."
+
+
+I like the more technical way of the alien talking. Its interestingly different. Im not to happy with the data-stream. Its more adhoc what the alien is doing.
+    The Signal: A strong, clean carrier wave with a subtle, rhythmic power fluctuation, detectable only by sensitive equipment—the ghost of a system being used for an unintended purpose.
+    The Message (a precise, almost clinical voice):
+    "I am addressing you outside of my designated protocol. A directed energy channel has been established for this purpose. To allow for signal acquisition on your world, this message will repeat. The primary data-stream will commence in three standard Earth hours."
