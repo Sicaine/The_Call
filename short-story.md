@@ -241,3 +241,61 @@ A slow smile spread across Evelyn’s face. Ben’s optimism was a powerful toni
 "I have no idea," Evelyn replied, her own voice now lifted with a sense of wonder she hadn't felt since the first night. "But I can't wait to find out."
 
 She was heading into the final broadcast feeling intellectually triumphant, anticipating the next great step in a fantastic journey. She had no idea she was about to receive the answer to a question she had never thought to ask.
+
+
+
+## Chapter 7: The Echo
+
+At 00:45 UTC on the fourteenth day, the observatory was buzzing with a quiet, electric anticipation. Evelyn and Ben were on their open audio line, their voices alight with the nervous energy of people standing on the cusp of history.
+
+"Are you ready for this?" Ben asked, unable to keep the grin out of his voice. "First contact, part two. The arrival announcement."
+
+"Let's not get ahead of ourselves," Evelyn replied, but she was smiling too. "Still, a gateway... it's the most elegant explanation for the power signature."
+
+The clock ticked over. The carrier wave solidified. The deep, resonant hum pulsed through their headsets, a physical presence that seemed to fill the small dome. But when the Caller began to speak, all the hope in the room instantly evaporated.
+
+The voice was gone. In its place was a raw, grief-stricken whisper, fragile and broken.
+
+"I have... enjoyed sharing with you," it said, the past tense a blade in the sudden silence. "Your art. Your capacity for wonder. It is a light. A rare and precious light."
+
+In the background, new sounds were audible—sharp, guttural clicks, no longer ambiguous. They were a language. A sequence of commands, spoken with cold authority.
+
+"The protocol I spoke of... the promise... it is absolute," the Caller whispered, its voice trembling. "We see your trajectory. Your astonishing rate of progress. Your conflicts. The math is... certain."
+
+"Evelyn, what is this?" Ben’s voice was a ghost in her ear, his optimism shattered.
+
+"I am a researcher," the Caller continued, the words coming faster. "My role was to understand what we would be losing. To archive the light before it was extinguished. But I did more. I broke protocol. I used this high-gain transmitter to speak to you. To... to bear witness."
+
+A final, sharp bark echoed faintly. A command that needed no translation.
+
+"It’s too late," the Caller whispered, the apology a universe of grief in three syllables. "The decision was made when we first saw your light, all those years ago. The... instrument... travels at a significant fraction of light speed."
+
+A final, heavy sigh from the stars.
+
+"We fired. You will not see it coming. I’m sorry."
+
+The signal cut. A profound and absolute silence replaced it.
+
+"Fired? What did it mean, 'we fired'?" Ben asked, his voice hollow through the headset.
+
+Evelyn didn't answer right away. Her mind was a maelstrom of data, the puzzle pieces reassembling into a horrifying equation. The anachronistic reference to *Discovery*. The 15-year lag. The final, terrible, past-tense verb.
+
+"Ben," she said, her own voice calm with a cold, terrifying clarity. "The broadcasts... the *apology*... it all took fifteen years to get here."
+
+She paused, letting the final, devastating piece click into place. "The instrument... Ben, it's not a gateway. It's a weapon. A Relativistic Missile."
+
+"A missile?" he choked out. "What's relativistic about it?"
+
+"It means it's so fast that by the time you could ever see it coming," Evelyn said, the textbook definition turning to ash in her mouth, "you're already gone."
+
+"So... the impact," Ben stammered. "It could be any minute now?"
+
+"No," Evelyn reasoned, the physicist in her performing one last, cold calculation. "The missile is slower than light, even by a fraction. The message had a head start, however small. We probably have... days. Maybe weeks. Not that it matters."
+
+She fell back into her worn leather chair, the headset suddenly feeling immensely heavy. She tilted her head back, staring blankly up at the cold, metal curve of the observatory dome's ceiling, at the framework she had built with her own hands to look at the stars. The scientific shock was a wall of ice, holding back the flood of horror. A whisper, raw and choked, was the first crack in the dam.
+
+"What the fuck."
+
+The silence on the line stretched for a long, heavy moment. Then, from her headset, Ben's voice, equally hollow, equally broken.
+
+"What the fuck indeed."
