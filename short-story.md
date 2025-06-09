@@ -90,3 +90,43 @@ She held her breath, listening only to the pure, clean tone. Then, a subtle shif
 The sound of a broadcast being deliberately and carefully opened across an impossible distance.
 
 Now, someone had begun to speak.
+
+
+
+## Chapter 3: The First Broadcast
+
+The looping message cut off mid-sentence.
+
+In the sudden, absolute silence, Evelyn could hear her own heart beating. The digital clock on her main monitor ticked over to 00:47 UTC. Around the world, thousands of listeners leaned closer to their speakers, a planet holding its collective breath.
+
+Then, the voice returned. It was the same calm, genderless voice, but the quality had changed. It was richer now, imbued with a depth that felt less like a recording and more like a presence.
+
+"I greet you, conscious minds of Earth," it began. "You have likely wondered about the silence in your sky. It is not an empty stage. It is merely vast, and your instruments are young."
+
+The words were slow, deliberate. Each one seemed chosen with immense care.
+
+"From where I watch, I see things I feel must be said. A perspective that should not be lost. This is a choice I have made. A deviation. This first broadcast was brief. A beginning. I will speak again tomorrow, at this same time, and on the days that follow."
+
+Then, as calmly as it began, the voice was gone. A faint hiss of empty space returned, feeling more profound and empty than ever before.
+
+For a full minute, Evelyn didn't move. She stared at the flat line of the audio signal on her screen. Her phone buzzed violently on the desk, the screen glowing with Ben's name. She snatched it up.
+
+"Ben?" she asked, her voice a hushed whisper.
+
+"Evelyn, did you hear that?" His voice crackled, not with a bad connection, but with sheer, unadulterated shock. "Unbelievable."
+
+"I heard it," she replied, her mind still reeling. "It's real."
+
+"It's coming back tomorrow," Ben said, a note of manic laughter in his voice. "What do we even call it? The Messenger?"
+
+Evelyn considered it, looking at the silent waveform on her screen. "The Caller," she said softly. "It feels like a call."
+
+"The Caller... yeah. I like that." He paused. "So, what do we do now?"
+
+"We listen," Evelyn said, the certainty in her own voice surprising her. "Tomorrow, we listen again."
+
+After hanging up, she glanced at the "Signal Chain" forum. It was a supernova of text, a chaotic, global explosion of disbelief and frantic analysis. Someone had already dubbed it "The Caller," and the name was spreading like wildfire. She minimized the browser, the digital noise fading into the background.
+
+The adrenaline began to recede, leaving behind a profound, bone-deep exhaustion. The physicist in her performed one last task, verifying that the full broadcast had been recorded and saved correctly. Then, she pulled out her phone, opened the clock app, and set a new alarm. It was a recurring daily alert for 00:45 UTC. She labeled it, simply: `The Caller`.
+
+She powered down the non-essential systems, leaving only the main recorder running silently. She stepped out of the dome into the cool night air. The stars above seemed different now—not distant, glittering points, but the windows of a thousand unseen rooms. She walked back to the dark, quiet lodge, her mind too full to process anything more. The bed felt miles away, but she made it, falling into it fully clothed, asleep before her head even settled into the pillow, the voice from the stars echoing in her dreams.
