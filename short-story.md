@@ -130,3 +130,39 @@ After hanging up, she glanced at the "Signal Chain" forum. It was a supernova of
 The adrenaline began to recede, leaving behind a profound, bone-deep exhaustion. The physicist in her performed one last task, verifying that the full broadcast had been recorded and saved correctly. Then, she pulled out her phone, opened the clock app, and set a new alarm. It was a recurring daily alert for 00:45 UTC. She labeled it, simply: `The Caller`.
 
 She powered down the non-essential systems, leaving only the main recorder running silently. She stepped out of the dome into the cool night air. The stars above seemed different now—not distant, glittering points, but the windows of a thousand unseen rooms. She walked back to the dark, quiet lodge, her mind too full to process anything more. The bed felt miles away, but she made it, falling into it fully clothed, asleep before her head even settled into the pillow, the voice from the stars echoing in her dreams.
+
+
+
+
+## Chapter 4: The Library of Worlds
+
+The alarm on Evelyn’s phone chirped at 00:45 UTC. It wasn’t a wake-up call. Evelyn had been awake for hours, hunched over her monitors, cross-referencing data from the forum with her own recordings. The alarm was a summons. It was time to stop analyzing and simply listen.
+
+The second broadcast began with the now-familiar shift from hiss to presence.
+
+"Life is not a singular event," the Caller said, its voice a calm river of sound. "It does not require your specific chemistry. I have seen it rise from seas of liquid methane under the light of a dim, red star. I have watched it bloom in skies of ammonia, its form like living glass. It finds a way, always."
+
+On the third day, the topic shifted from biology to the fundamental nature of the cosmos.
+
+"Your perception of an ever-expanding cosmos is… incomplete," it stated. "The universe breathes. A great, slow inhalation over eons, gathering all into its heart, followed by a sigh of exhalation, scattering the seeds of new creation. You are living within a single breath."
+
+By the fourth day, the world was hooked. "The Caller" was the headline on every news site. Humanity had a new, shared ritual. In bars, conversations would stop as patrons turned to watch the live-captioned broadcasts on screen. New terms entered the lexicon: "Callerscript" for the transcripts, "Cosmic Breathing" for the new theory that had sent physicists scrambling. NASA and the ESA issued a joint statement, a masterclass in cautious understatement, confirming the signal's extrasolar origin and its "unprecedented and structured nature," but offering no speculation.
+
+Evelyn's world remained her observatory. Her anonymity held. The signal was global now, its discovery credited to the "Signal Chain" community as a whole. Her only contact was Ben.
+
+On the fifth day, the Caller turned its attention to Earth's culture.
+
+"You translate the patterns of your world into resonant frequencies," it said. "The cycle of your seasons… the heat and cold, the growth and decay… you captured it in the strings of what you called Vivaldi's violin. A beautiful, elegant translation."
+
+On the seventh day, the Caller spoke with particular reverence about humanity's efforts to reach for the stars.
+
+"Your ambition to leave your cradle is a remarkable thing to witness," it said. "You build towers of steel that scrape your sky. And your recent, brave gesture with the craft you named *Discovery*… its final flight was a beautiful promise. A piece of your world, sent outwards as a statement of hope."
+
+In her dome, Evelyn’s pen stopped moving. She underlined the word *Discovery*. Her brow furrowed slightly. *Recent?* The final shuttle flight was in 2011. Over a decade ago. In the grand scheme of things, it was a blink, but the Caller's language was always so precise, so deliberate.
+
+She made a note in the margin of her notebook: *Query time-sense? Caller's 'recent' ≠ ours. Or just poetic license?*
+
+She pushed the thought aside for now. It was a minor anomaly in a sea of wonders, a single, slightly-off-key note in an otherwise perfect symphony. The world was captivated by the music. But Evelyn, the first to hear it, was now the first to notice the slight dissonance, a subtle hint that something was not quite right.
+
+
+
