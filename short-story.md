@@ -166,3 +166,40 @@ She pushed the thought aside for now. It was a minor anomaly in a sea of wonders
 
 
 
+## Chapter 5: The Dissonant Note
+
+By the tenth day, the world had found its rhythm. The Caller's daily broadcast was a fixed point in the global schedule. The initial chaos had subsided into a worldwide, collaborative research project. NASA and the ESA, combining data from their deep space networks, had pinpointed the signal's origin: a red dwarf star in the Ophiuchus constellation, just under fifteen light-years away, now designated T-847. The James Webb Space Telescope was re-tasked, its powerful eye now staring into the system, hunting for the faint chemical traces of an atmosphere, for the barest hint of a technosignature.
+
+Evelyn's observatory had become her entire world. She spent her days poring over the global data stream, her nights listening to the new transmission, and her late nights in hushed, analytical phone calls with Ben.
+
+On the eleventh day, the tone of the broadcasts began to change. The subjects grew more somber. The Caller spoke of galactic history, of civilizations that had risen and fallen, of lights that had ignited only to consume themselves in fire.
+
+"I have observed that civilizations, like stars, have a lifespan," it said, and for the first time, Evelyn detected a flicker of something new in its voice. A micro-expression of sound. It wasn't sadness. It was... strain. "Some burn brightly, and briefly. Others learn to tend their fire, to shield it from the winds of the void, and endure for ages."
+
+Behind the voice, a new sound had appeared. It was a low, resonant hum, deeper and more persistent than the faint power fluctuation she'd first detected. It was the sound of a different place. A place of immense, latent power.
+
+The next day, the hum was louder. The Caller’s voice was thinner, the calm quality stretched taut. It was speaking of cosmic responsibility when it happened.
+
+"...and the duty of the ancient is to..."
+
+The voice stopped mid-sentence. A sharp hiss, like a sudden release of pressure, cut through the broadcast. It was followed by five full seconds of absolute, deafening silence.
+
+"...is to provide context," the Caller resumed, its voice noticeably more strained, the words coming just a little faster.
+
+Evelyn barely heard the rest of the message. Her fingers flew across the keyboard, isolating the audio anomaly. She played the section back. The hiss. The silence. The strained resumption.
+
+She called Ben immediately.
+
+"The gap," she said, skipping any greeting. "The sound right before it."
+
+"I see it. I hear it," Ben's voice came back, tight with excitement. "Man, that was weird. It almost sounded like... a door."
+
+Evelyn was silent for a moment. "A door?"
+
+"I know, sounds crazy," he said, talking faster now. "What, do we really think they just sit in front of a microphone like we would? It's a bit simplistic to assume that."
+
+"But *something* happened," Evelyn insisted, staring at the clean slice of silence in the audio file. "It wasn't a glitch in the transmission; it was a pause in the performance. Five full seconds."
+
+"Exactly!" Ben's voice was alight with curiosity. "And that's what's so fascinating. We're not just getting the lecture anymore, Evelyn. We're getting a glimpse of the room. The context. It's a whole new layer of data."
+
+Evelyn looked at the anomaly on her screen, a small island of silence in a sea of sound. Ben was right. It wasn't just a voice anymore. It was an environment. The puzzle wasn't just what the Caller was saying, but where it was saying it from, and what else was happening in that distant, alien space. The mystery had just deepened immensely.
