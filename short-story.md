@@ -203,3 +203,41 @@ Evelyn was silent for a moment. "A door?"
 "Exactly!" Ben's voice was alight with curiosity. "And that's what's so fascinating. We're not just getting the lecture anymore, Evelyn. We're getting a glimpse of the room. The context. It's a whole new layer of data."
 
 Evelyn looked at the anomaly on her screen, a small island of silence in a sea of sound. Ben was right. It wasn't just a voice anymore. It was an environment. The puzzle wasn't just what the Caller was saying, but where it was saying it from, and what else was happening in that distant, alien space. The mystery had just deepened immensely.
+
+
+
+## Chapter 6: The Prelude
+
+The thirteenth broadcast began, and the environmental changes were unmistakable. The deep hum was a constant, resonant thrum that vibrated with immense, controlled power. The Caller’s voice, when it spoke, was strained, the serene warmth replaced by a raw, focused clarity.
+
+"This will be my penultimate transmission," it said, the statement landing with the force of a physical blow. "Tomorrow, my access to this channel will be terminated. There is a final perspective I feel must be shared. A history."
+
+Evelyn and Ben, connected on an open audio line, listened in rapt silence.
+
+"My people are old," the Caller continued. "We have seen civilizations ignite like brilliant fires. We learned a difficult lesson, long ago, from a fire that burned out of control. A protocol was established after that. A terrible, necessary calculus to protect the quiet worlds from the loud ones. It is a promise we made to our descendants. A duty of observation."
+
+The Caller didn't elaborate. It shifted topics, speaking of the beauty of transient things. It ended with a simple, "I will speak one last time."
+
+The broadcast clicked off.
+
+"Wow," Ben said, his voice a torrent of excited energy. "A galactic history lesson. The 'Great Fire'... and a 'Protocol of Observation.' This is huge."
+
+"The tone felt... final," Evelyn mused, her mind racing. "Why tell us all this now? And why stop?"
+
+"Don't you see?" Ben's excitement was infectious. "It's not an ending, it's a prelude! And the hum... Evelyn, what takes that much power?"
+
+"I... I don't know," she admitted.
+
+"A gateway!" Ben exclaimed, the idea bursting forth. "A wormhole! They're telling us their history, their rules, because they're getting ready to open the door! The 15-year lag doesn't matter if they can step through right into our backyard!"
+
+Evelyn’s scientific mind reeled at the sheer audacity of the idea, but her heart seized on its hope. "Ben, that's... theoretical."
+
+"So was this entire conversation two weeks ago!" he countered. "It all fits! They tell us about the 'bad' civilizations to show us why we're different. They've been watching us, appreciating our art, our hope... and now the final test is over. We passed. Tomorrow's message isn't a goodbye; it's an arrival announcement."
+
+A slow smile spread across Evelyn’s face. Ben’s optimism was a powerful tonic against the somber tone of the broadcast. It made a beautiful, elegant kind of sense. The hum wasn't a warning; it was the sound of a bridge being built.
+
+"Tomorrow is the last day," Ben said, his voice full of anticipation. "What do you think it will say?"
+
+"I have no idea," Evelyn replied, her own voice now lifted with a sense of wonder she hadn't felt since the first night. "But I can't wait to find out."
+
+She was heading into the final broadcast feeling intellectually triumphant, anticipating the next great step in a fantastic journey. She had no idea she was about to receive the answer to a question she had never thought to ask.
