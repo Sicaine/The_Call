@@ -1,0 +1,26 @@
+baseURL = "https://example.org/"  # Replace with actual GitHub Pages URL later
+languageCode = "en-us"
+title = "The Archivist's Echo - A Short Story"
+
+# Disable themes for now, we will use custom layouts in the /layouts folder
+# theme = ""
+
+# Enable inline shortcodes for simple markdown elements if needed, though not strictly necessary for this.
+[markup.goldmark.renderer]
+  unsafe = true # Allows raw HTML in markdown if needed, but we'll try to avoid it.
+[markup.highlight]
+  # noClasses = false # set to false to use CSS classes for syntax highlighting
+
+# Optional: Default content type if not specified in front matter
+# defaultContentLanguage = "en"
+# defaultContentLanguageInSubdir = false
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Story"
+    url = "/posts/short-story/" # Assuming it will be at this path
+    weight = 2

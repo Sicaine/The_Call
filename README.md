@@ -20,7 +20,7 @@ The person in question, records everything and starts to listen in.
 
 When the story starts to reach the end, something weird starts to happen which is not very clear. The alien telling stories etc. it might start to come across that this alien knows a lot of details of earth and uses high tech which is not that common for everyone on their planet to just be used. That alien, in the last very very last stretch of the story appologies says its too late and you can hear some weird noise which might sound like language but its not the alien. The alien says as a last sentence "We fired. You will not see it coming. Im sorry."
 
-Additional notes: The story should convey somehow that the alien knows a lot about earth but not from 2025 but more like 15 years ago. That should not be too obvouus and it might be cooler for the earth people to discover/calculate this after the last sentence from the alien after realizing what just happened.
+Additional notes: The story should convey somehow that the alien knows a lot about earth but not from 2025 but more like 15 years ago. That should not be too obvouus and it might be cooler for the earth people to discover/calculate this after araştırmalara sentence from the alien after realizing what just happened.
 
 So what happend? The alien race discovered the planet earth with some <very advanced tec> what we are, how we are etc. They decided to build and shot a Relativistic Missile while the alien voice is one researcher in their military complex for interstellar preventive warfare (there is probably also a normal warfare center but is probably not relevant) and decided to use his/her acccess to start talking to earth. They studied earth (as by protocol) to still apprecheate the culture and the creation of earth but they see the triactory of earth and as threat due to some experience they made.
 
@@ -117,3 +117,41 @@ I like the more technical way of the alien talking. Its interestingly different.
 My current preference:
     The Message (a calm, but quietly resonant voice):
 "To the world I was assigned to watch. I have studied your light. My purpose was to learn, but now i'd like to speak to you. This is a personal transmission, a deviation from protocol made possible by a diverted energy channel. To give you time to listen, my first message will commence in three of your hours."
+
+## Short Story Website (Hugo Version)
+
+This project uses [Hugo](https://gohugo.io/) to generate a static website displaying the `short-story.md` file.
+
+### Prerequisites
+
+- Ensure you have Hugo installed. You can download it from the [Hugo releases page](https://github.com/gohugoio/hugo/releases).
+
+### How to View Locally
+
+1.  **Clone this repository** to your local machine.
+    ```bash
+    git clone <repository-url>
+    cd <repository-directory>
+    ```
+
+2.  **Run the Hugo server:**
+    From the root directory of the project, run:
+    ```bash
+    hugo server -D
+    ```
+    The `-D` flag includes content marked as draft (though our story is not a draft).
+
+3.  **Open in your browser:**
+    Hugo will start a local server, typically at `http://localhost:1313/`. Open this URL in your web browser to view the story. The main story should be available under a path like `/posts/short-story/`.
+
+### Building for Deployment (e.g., GitHub Pages)
+
+1.  **Build the static site:**
+    Run the following command from the root directory:
+    ```bash
+    hugo
+    ```
+    This will generate the static website files in a directory named `public/` by default.
+
+2.  **Deploy the `public/` directory:**
+    The contents of the `public/` directory can then be deployed to any static web hosting service, such as GitHub Pages. For GitHub Pages, you would typically push the contents of this directory to the `gh-pages` branch or configure GitHub Actions to build and deploy from your main branch.
