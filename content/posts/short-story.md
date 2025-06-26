@@ -1,3 +1,9 @@
+---
+title: "The Archivist's Echo"
+date: 2024-07-26 # Using a fixed date as $(date) won't work here
+draft: false
+---
+
 # The Archivist's Echo
 
 ## Chapter 1: The Music Stops
@@ -298,4 +304,3 @@ She fell back into her worn leather chair, her headset feeling immensely heavy. 
 
 
 The End
-
