@@ -1,9 +1,39 @@
 baseURL = "https://example.org/"  # Replace with actual GitHub Pages URL later
-languageCode = "en-us"
 title = "The Archivist's Echo - A Short Story"
+defaultContentLanguage = "en"
 
 # Disable themes for now, we will use custom layouts in the /layouts folder
 # theme = ""
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en-us"
+    weight = 1
+    title = "The Archivist's Echo - A Short Story"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+      [[languages.en.menu.main]]
+        name = "Story"
+        url = "/posts/short-story/"
+        weight = 2
+  [languages.de]
+    languageName = "Deutsch"
+    languageCode = "de"
+    weight = 2
+    title = "Das Echo des Archivars - Eine Kurzgeschichte" # Example translation
+    [languages.de.menu]
+      [[languages.de.menu.main]]
+        name = "Startseite"
+        url = "/de/"
+        weight = 1
+      [[languages.de.menu.main]]
+        name = "Geschichte"
+        url = "/de/posts/short-story/"
+        weight = 2
 
 # Enable inline shortcodes for simple markdown elements if needed, though not strictly necessary for this.
 [markup.goldmark.renderer]
@@ -12,15 +42,4 @@ title = "The Archivist's Echo - A Short Story"
   # noClasses = false # set to false to use CSS classes for syntax highlighting
 
 # Optional: Default content type if not specified in front matter
-# defaultContentLanguage = "en"
-# defaultContentLanguageInSubdir = false
-
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Story"
-    url = "/posts/short-story/" # Assuming it will be at this path
-    weight = 2
+# defaultContentLanguageInSubdir = false # Set to true if you want /en/, /de/ paths for default lang as well
