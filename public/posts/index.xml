@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Archivist&#39;s Echo - A Short Story</title>
+    <link>http://localhost/posts/</link>
+    <description>Recent content in Posts on The Archivist&#39;s Echo - A Short Story</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Archivist&#39;s Echo</title>
+      <link>http://localhost/posts/short-story/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost/posts/short-story/</guid>
+      <description>The Archivist&amp;rsquo;s Echo Chapter 1: The Music Stops By day, Dr. Evelyn Reed was a physicist at a Munich university, navigating a world of grant proposals, departmental politics, and undergrads who stared blankly at the elegant mathematics of the universe. She loved physics, but was growing weary of the institution. Her days were spent in dimly-lit lecture halls and sterile labs. Her favorite part of the day began after a long drive home.</description>
+    </item>
+  </channel>
+</rss>
