@@ -1,0 +1,107 @@
+name: Hugo Build, Test, and Deploy
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - '*'
+
+jobs:
+  build_and_test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: true # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          # extended: true # Uncomment if using SASS/SCSS or other features requiring the extended version
+
+      - name: Build Hugo site
+        run: hugo --minify
+
+      - name: Basic title check
+        run: |
+          if grep -q "<title>" public/index.html; then
+            echo "Title tag found in public/index.html."
+          else
+            echo "Error: Title tag not found in public/index.html."
+            exit 1
+          fi
+
+  deploy_gh_pages:
+    needs: build_and_test
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          # extended: true
+
+      - name: Build Hugo site
+        run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        # No "with" section needed if deploying to the root of the gh-pages branch
+
+  build_preview:
+    needs: build_and_test
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          # extended: true
+
+      - name: Build Hugo site for PR preview
+        # For PR previews, the baseURL might need to be adjusted if not using a service
+        # that automatically handles preview URLs.
+        # For now, we build with the default config.
+        # You might need to pass a specific baseURL:
+        # run: hugo --minify --baseURL "${{ steps.pr_details.outputs.base_url }}/"
+        run: hugo --minify
+
+      - name: Upload PR preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: hugo-preview-${{ github.event.number }}
+          path: ./public
+          retention-days: 7 # Keep artifacts for 7 days
+permissions:
+  contents: read
+  pages: write
+  id-token: write
